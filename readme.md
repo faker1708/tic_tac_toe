@@ -108,3 +108,9 @@ lr 学习率
 
 
 
+# 本项目暂停。
+
+算法是设计好了。tmd 游戏写着好费劲 ，先别急了吧。
+
+算法：
+https://www.bilibili.com/video/BV1uv4y1j7ZW/
